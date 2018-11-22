@@ -4,6 +4,11 @@
 Clone the the project directory, you can run:
 git clone https://github.com/Fbw9/redux-example.git
 
+
+### `npm install`
+
+Runs npm install on the console to install the packages
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
